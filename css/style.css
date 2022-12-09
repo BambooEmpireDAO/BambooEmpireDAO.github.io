@@ -1,6 +1,9 @@
+.body{
+  background-image: url("assets/bamboo.jpeg");
+}
+
 .newsletter{
   padding: 80px;
-  background-image: url("assets/bamboo.jpeg");
 }
 
 .newsletter .content{
