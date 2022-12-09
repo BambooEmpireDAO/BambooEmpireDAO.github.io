@@ -2,6 +2,13 @@
   background-image: url("https://images.squarespace-cdn.com/content/v1/56abb4fe69a91abc2355fb93/1548133799763-FPJIKI688TAJZ9P69GYV/Bamboo+Stalks+-+Vietnam.JPG?format=1000w");
 }
 
+.centered{
+  position: fixed;
+  top: 50%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+}
+
 .newsletter{
   padding: 80px;
   background-color: lightslategray;
