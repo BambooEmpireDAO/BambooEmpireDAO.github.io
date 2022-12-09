@@ -4,6 +4,7 @@
 
 .newsletter{
   padding: 80px;
+  background-color: lightslategray;
 }
 
 .newsletter .content{
@@ -12,9 +13,14 @@
   text-align: center;
 }
 
-.newsletter .content h2{
+.newsletter .content h1{
   margin-bottom: 40px;
-  color: #243c4f;
+  color: white;
+}
+
+.newsletter .content h7{
+  margin-bottom: 40px;
+  color: white;
 }
 
 .newsletter .content .form-control{
@@ -31,5 +37,5 @@
 .newsletter .content .btn{
   min-height: 50px;
   border-radius: 0;
-  background-color: green;
+  background-color: black;
 }
