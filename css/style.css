@@ -1,6 +1,6 @@
 .newsletter{
   padding: 80px;
-  background-image: "/assets/bamboo.jpeg";
+  background-image: url("/assets/bamboo.jpeg");
 }
 
 .newsletter .content{
@@ -28,5 +28,5 @@
 .newsletter .content .btn{
   min-height: 50px;
   border-radius: 0;
-  background-color: blueviolet;
+  background-color: green;
 }
